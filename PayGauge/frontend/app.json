@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "PayGauge",
+    "slug": "PayGauge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon1.png",
+    "userInterfaceStyle": "dark",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon1.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.san101.paygauge",
+      "versionCode": 1,
+      "icon": "./assets/icon1.png"
+    },
+    "web": {
+      "favicon": "./assets/icon1.png"
+    }
+  }
+}
