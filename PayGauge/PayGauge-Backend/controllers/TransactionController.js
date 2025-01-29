@@ -2,6 +2,44 @@ import mongoose from "mongoose";
 import Transaction from "../models/Transaction.js";
 import User from "../models/User.js";
 
+// export const createTransaction = async (req, res, next) => {
+//     const { label, note, amount, type, category, timestamp, user } = req.body
+
+//     let userExists
+//     try {
+//         userExists = await User.find({_id: user})
+//     } catch (err) {
+//         return console.log(err)
+//     }
+
+//     if(!userExists) {
+//         return res.status(400).json({message: "User not found!"})
+//     }
+
+//     const transaction = new Transaction({
+//         label,
+//         note,
+//         amount,
+//         type,
+//         category, 
+//         timestamp,
+//         user
+//     })
+
+//     try {
+//         const session = await mongoose.startSession()
+//         session.startTransaction()
+//         await transaction.save({session})
+//         userExists[0].transactions.push({_id: transaction.id})
+//         await userExists[0].save({session})
+//         await session.commitTransaction()
+//     } catch (err) {
+//         console.log(err)
+//         return res.status(500).json({message: err})
+//     }
+
+//     return res.status(200).json({transaction})
+// }
 export const createTransaction = async (req, res, next) => {
     const { label, note, amount, type, category, timestamp, user } = req.body
 
@@ -12,7 +50,7 @@ export const createTransaction = async (req, res, next) => {
         return console.log(err)
     }
 
-    if(!userExists) {
+    if (!userExists) {
         return res.status(400).json({message: "User not found!"})
     }
 
@@ -27,12 +65,12 @@ export const createTransaction = async (req, res, next) => {
     })
 
     try {
-        const session = await mongoose.startSession()
-        session.startTransaction()
-        await transaction.save({session})
+        // Sauvegarde sans utiliser de transaction
+        await transaction.save()
+
+        // Ajoute la transaction à l'utilisateur sans transaction
         userExists[0].transactions.push({_id: transaction.id})
-        await userExists[0].save({session})
-        await session.commitTransaction()
+        await userExists[0].save()
     } catch (err) {
         console.log(err)
         return res.status(500).json({message: err})
@@ -40,6 +78,7 @@ export const createTransaction = async (req, res, next) => {
 
     return res.status(200).json({transaction})
 }
+
 
 export const updateTransaction = async (req, res, next) => {
     const { label, note, amount, type, category, timestamp } = req.body

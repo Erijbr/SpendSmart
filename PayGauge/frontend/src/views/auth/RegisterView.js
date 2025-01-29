@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ActivityIndicator, Alert, Dimensions, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { ActivityIndicator, Alert, Dimensions, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import { TextInput } from "react-native-paper";
 import Colors from "../../constants/Colors";
 import axios from "axios";
@@ -8,49 +8,57 @@ import { useNavigation } from "@react-navigation/native";
 import API_LINKS from "../../utils/API_LINKS";
 
 const RegisterView = () => {
-
-    const navigation = useNavigation()
-    const [email, setEmail] = useState("")
-    const [name, setName] = useState("")
-    const [password, setPassword] = useState("")
-    const [loading, setLoading] = useState(false)
+    const navigation = useNavigation();
+    const [email, setEmail] = useState("");
+    const [name, setName] = useState("");
+    const [password, setPassword] = useState("");
+    const [loading, setLoading] = useState(false);
 
     const register = async () => {
-        if(email.trim() == "" || name.trim() == "" || password.trim() == "") {
-            Alert.alert('Error!', 'Inputs cannot be empty')
+        if (email.trim() === "" || name.trim() === "" || password.trim() === "") {
+            Alert.alert("Error!", "Inputs cannot be empty");
         } else if (password.trim().length < 8) {
-            Alert.alert('Error!', 'Password must be atleast 8 characters')
+            Alert.alert("Error!", "Password must be at least 8 characters");
         } else {
-            setLoading(true)
+            setLoading(true);
             try {
-              alert("hello",JSON.stringify(response.data))
-
                 const response = await axios.post(`${API_LINKS.USER}/register`, {
                     name: name.trim(),
                     email: email.trim(),
-                    password: password.trim()
-                })
-                const data = await response.data
+                    password: password.trim(),
+                });
 
-                await AsyncStorage.setItem('user', JSON.stringify(data.user))
-                await AsyncStorage.setItem('userId', data.user._id)
+                const data = response.data;
+
+                try {
+                    await AsyncStorage.setItem("user", JSON.stringify(data.user));
+                    await AsyncStorage.setItem("userId", data.user._id);
+                } catch (storageError) {
+                    console.error("Error saving data to AsyncStorage:", storageError);
+                    Alert.alert("Error!", "Failed to save user data.");
+                }
 
                 navigation.reset({
                     index: 0,
-                    routes: [{name: 'MainNavigator'}]
-                })
-                return true
+                    routes: [{ name: "MainNavigator" }],
+                });
+                return true;
             } catch (err) {
-                Alert.alert('Error!', err.response.data.message)
-                return false
+                if (err.response && err.response.data && err.response.data.message) {
+                    Alert.alert("Error!", err.response.data.message);
+                } else {
+                    console.error("Unexpected error:", err);
+                    Alert.alert("Error!", "An unexpected error occurred.");
+                }
+                return false;
             } finally {
-                setEmail("")
-                setName("")
-                setPassword("")
-                setLoading(false)
+                setEmail("");
+                setName("");
+                setPassword("");
+                setLoading(false);
             }
         }
-    }
+    };
     // const register = async () => {
     //     if(email.trim() == "" || name.trim() == "" || password.trim() == "") {
     //         Alert.alert('Error!', 'Inputs cannot be empty')

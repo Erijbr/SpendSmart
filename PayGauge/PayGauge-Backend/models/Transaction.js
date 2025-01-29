@@ -25,7 +25,7 @@ const transactionSchema = new Schema({
     },
     timestamp: {
         type: Number,
-        required: true
+        required: false
     },
     user: {
         type: mongoose.Types.ObjectId,
