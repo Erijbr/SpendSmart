@@ -285,10 +285,10 @@ const ChartsView = () => {
                             marginTop: 10
                         }}>
                             <Text style={{color: Colors.DARK_GRAY, fontSize: 14}}>
-                                Total Income = ₹{totalIncome}
+                                Total Income = USD {totalIncome}
                             </Text>
                             <Text style={{color: Colors.DARK_GRAY, fontSize: 14}}>
-                                Total Expense = ₹{totalExpense * -1}
+                                Total Expense = USD {totalExpense * -1}
                             </Text>
                         </View>
                     </View>

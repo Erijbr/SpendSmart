@@ -92,7 +92,10 @@ const TransactionsView = () => {
                         initialNumToRender={20}
                         removeClippedSubviews={false}
                         renderItem={({item}) => (
-                            <TransactionItem item={item} />
+                            <TransactionItem 
+                                item={item} 
+                                onDeleteSuccess={fetchTransactions} 
+                            />
                         )}
                     />
                 }

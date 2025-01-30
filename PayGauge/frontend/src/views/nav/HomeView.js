@@ -100,7 +100,7 @@ const HomeView = () => {
                                             MY BALANCE
                                         </Text>
                                         <Text style={{fontSize: 28, fontWeight: '700', color: 'white'}}>
-                                            ₹{Math.round((balance + Number.EPSILON) * 100) / 100}
+                                           USD {Math.round((balance + Number.EPSILON) * 100) / 100}
                                         </Text>
                                     </>
                                 )}
@@ -133,8 +133,10 @@ const HomeView = () => {
                         showsVerticalScrollIndicator={false}
                         ListEmptyComponent={NoResults}
                         renderItem={({item}) => (
-                            <TransactionItem item={item} />
-                        )}
+                            <TransactionItem 
+                            item={item} 
+                            onDeleteSuccess={fetchTransactions} 
+                        />                        )}
                     />
                 }
                 <TouchableOpacity

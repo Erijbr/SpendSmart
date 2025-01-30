@@ -45,6 +45,7 @@
 import { createStackNavigator } from "@react-navigation/stack";
 import React from "react";
 import BottomNavigator from "./BottomNavigator";
+import AuthNavigator from "./AuthNavigator";
 
 const Stack = createStackNavigator();
 
@@ -54,6 +55,13 @@ function MainNavigator() {
       <Stack.Screen
         name="BottomNavigator"
         component={BottomNavigator}
+        options={{
+          headerShown: false,
+        }}
+      />
+      <Stack.Screen
+        name="AuthNavigator"
+        component={AuthNavigator}
         options={{
           headerShown: false,
         }}

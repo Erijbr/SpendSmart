@@ -107,15 +107,15 @@ const ProfileView = () => {
                     }
                 >
                     <View style={styles.profileContainer}>
-                        <View style={{flexDirection: 'row', alignItems: 'center'}}>
+                        <View style={{flexDirection: 'row', alignItems: 'center', marginBottom:10,marginTop:10}}>
                             <MaterialCommunityIcons name="account" size={24} color={Colors.DARK_GRAY} />
                             <Text style={{fontSize: 17, marginStart: 10, color: 'white'}}>
                                 {currentUser ? currentUser.name : 'loading...'}
                             </Text>
                         </View>
-                        <View style={{flexDirection: 'row', alignItems: 'center', marginTop: 10}}>
+                        <View style={{flexDirection: 'row', alignItems: 'center', marginTop: 10, marginBottom:10}}>
                             <MaterialCommunityIcons name="email" size={24} color={Colors.DARK_GRAY} />
-                            <Text style={{fontSize: 17, marginStart: 10, color: 'white'}}>
+                            <Text style={{fontSize: 17, marginStart: 10, color: 'white',}}>
                                 {currentUser ? currentUser.email : 'loading...'}
                             </Text>
                         </View>

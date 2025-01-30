@@ -5,7 +5,7 @@ import axios from "axios";
 import { useNavigation } from "@react-navigation/native";
 import API_LINKS from "../utils/API_LINKS";
 
-const TransactionItem = ({ item }) => {
+const TransactionItem = ({ item , onDeleteSuccess}) => {
 
     const { _id, label, note, amount, type, category, timestamp } = item
     const navigation = useNavigation()
@@ -13,17 +13,25 @@ const TransactionItem = ({ item }) => {
     const iso = new Date(timestamp)
     const ist = iso.toLocaleDateString()
 
-    const deleteTransaction = async () => {
-        await axios.delete(`${API_LINKS.TRANSACTION}/${_id}`)
-            .then(() => 
-                Platform.OS == 'android' ? ToastAndroid.show('Transaction deleted!', ToastAndroid.LONG, ToastAndroid.BOTTOM)
-                : Platform.OS == 'ios' ? Alert.alert('Success!', 'Transaction deleted') : null)
-            .catch(() => Alert.alert('Error!', 'Cannot delete transaction'))
-    }
+    const deleteTransaction = async (onDeleteSuccess) => {
+        try {
+            await axios.delete(`${API_LINKS.TRANSACTION}/${_id}`);
+            Platform.OS === 'android'
+                ? ToastAndroid.show('Transaction deleted!', ToastAndroid.LONG, ToastAndroid.BOTTOM)
+                : Alert.alert('Success!', 'Transaction deleted');
+            
+            // Appeler la fonction de rafraîchissement en cas de succès
+            onDeleteSuccess && onDeleteSuccess();
+        } catch (error) {
+            Alert.alert('Error!', 'Cannot delete transaction');
+        }
+    };
+    
 
-    const deleteAlert = () => {
+    const deleteAlert = (onDeleteSuccess) => {
         Alert.alert(
-            "Confirmation", "Do you want to delete this transaction?",
+            "Confirmation", 
+            "Do you want to delete this transaction?",
             [
                 {
                     text: 'Cancel',
@@ -32,18 +40,18 @@ const TransactionItem = ({ item }) => {
                 },
                 {
                     text: 'YES',
-                    onPress: () => deleteTransaction()
+                    onPress: () => deleteTransaction(onDeleteSuccess)
                 }
             ],
-            {cancelable: true}
-        )
-    }
+            { cancelable: true }
+        );
+    };
+    
 
     return (
         <TouchableOpacity
             style={styles.container}
-            onLongPress={() => deleteAlert()}
-            onPress={() => requestAnimationFrame(() => {
+            onLongPress={() => deleteAlert(onDeleteSuccess)}            onPress={() => requestAnimationFrame(() => {
                 navigation.navigate('UpdateTransactionView', {
                     _id: _id,
                     label: label,
@@ -76,7 +84,7 @@ const TransactionItem = ({ item }) => {
                     defaultSource={require('../../assets/miscellaneous.png')}
                 />
             </View>
-            <View style={{flex: 0.6}}>
+            <View style={{flex: 0.3}}>
                 <Text 
                     style={{color: 'white', fontSize: 18}}
                     numberOfLines={1}
@@ -92,13 +100,13 @@ const TransactionItem = ({ item }) => {
                     {ist}
                 </Text>
             </View>
-            <View style={{flex: 0.2, alignItems: 'flex-end'}}>
+            <View style={{flex: 0.6, alignItems: 'flex-end'}}>
                 <Text 
                     style={{color: type === "income" ? Colors.NIGHT_GREEN : Colors.NIGHT_RED, fontSize: 18}}
                     numberOfLines={1}
                     ellipsizeMode="tail"
                 >
-                    ₹{amount.toString()}
+                    USD {amount.toString()}
                 </Text>
             </View>
         </TouchableOpacity>
