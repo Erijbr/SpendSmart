@@ -1,0 +1,972 @@
+Date,Description,Debit,Credit,Sub-category,Category,Category Type,Month Number,Weekday,Amount
+2021-01-04,Data With Decision,,5000.0,Data with Decision,Salary,Income,1,1900-01-02,5000.0
+2021-01-04,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-02,-5.0
+2021-01-05,Estate Mangement,900.0,,Rent,Living Expenses,Expense,1,1900-01-03,-900.0
+2021-01-05,Financail upgrade,150.0,,Cash loan,Transport,Expense,1,1900-01-03,-150.0
+2021-01-05,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-03,-5.0
+2021-01-06,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-04,-5.0
+2021-01-07,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-05,-5.0
+2021-01-08,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-06,-5.0
+2021-01-08,Green's,155.0,,Groceries,Living Expenses,Expense,1,1900-01-06,-155.0
+2021-01-11,Power source,50.0,,Gas/Electrics,Living Expenses,Expense,1,1900-01-02,-50.0
+2021-01-11,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-02,-5.0
+2021-01-12,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-03,-5.0
+2021-01-13,Fuel,77.0,,Coffee,Dining Out,Expense,1,1900-01-04,-77.0
+2021-01-13,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-04,-5.0
+2021-01-14,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-05,-5.0
+2021-01-15,Green's,135.0,,Groceries,Living Expenses,Expense,1,1900-01-06,-135.0
+2021-01-15,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-06,-5.0
+2021-01-16,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-07,-5.0
+2021-01-16,Cinemas,40.0,,Entertainment,Discretionary,Expense,1,1900-01-07,-40.0
+2021-01-16,Fashionistas,98.0,,Clothes,Discretionary,Expense,1,1900-01-07,-98.0
+2021-01-16,Burger,52.0,,Restaurant,Dining Out,Expense,1,1900-01-07,-52.0
+2021-01-17,Uba,28.0,,Taxi,Transport,Expense,1,1900-01-01,-28.0
+2021-01-18,Onlne earning,,4500.0,YouTube,Passive,Income,1,1900-01-02,4500.0
+2021-01-18,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-02,-5.0
+2021-01-19,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-03,-5.0
+2021-01-19,Onlne earning,,4500.0,Teachable,Passive,Income,1,1900-01-03,4500.0
+2021-01-19,Phone,40.0,,Phone,Living Expenses,Expense,1,1900-01-03,-40.0
+2021-01-20,Sallah give away,45.0,,Gifts,Discretionary,Expense,1,1900-01-04,-45.0
+2021-01-20,Online streaming,32.0,,Entertainment,Discretionary,Expense,1,1900-01-04,-32.0
+2021-01-20,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-04,-5.0
+2021-01-21,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-05,-5.0
+2021-01-22,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-06,-5.0
+2021-01-22,Green's,170.0,,Groceries,Living Expenses,Expense,1,1900-01-06,-170.0
+2021-01-23,Suya,37.0,,Restaurant,Dining Out,Expense,1,1900-01-07,-37.0
+2021-01-24,Oha soup/White soup,12.0,,Restaurant,Dining Out,Expense,1,1900-01-01,-12.0
+2021-01-25,Orphanage,55.0,,Donation,Charity,Expense,1,1900-01-02,-55.0
+2021-01-25,Fuel,63.0,,Fueling,Transport,Expense,1,1900-01-02,-63.0
+2021-01-25,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-02,-5.0
+2021-01-26,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-03,-5.0
+2021-01-27,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-04,-5.0
+2021-01-28,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-05,-5.0
+2021-01-29,Drink,5.0,,Coffee,Dining Out,Expense,1,1900-01-06,-5.0
+2021-01-29,Green's,162.0,,Groceries,Living Expenses,Expense,1,1900-01-06,-162.0
+2021-01-30,Trainers,125.0,,Clothes,Discretionary,Expense,1,1900-01-07,-125.0
+2021-01-30,Hangingout/Ticket,175.0,,Entertainment,Discretionary,Expense,1,1900-01-07,-175.0
+2021-01-31,Fashionistas,145.0,,Clothes,Discretionary,Expense,1,1900-01-01,-145.0
+2021-01-31,Uba,23.0,,Taxi,Transport,Expense,1,1900-01-01,-23.0
+2021-02-01,Data With Decision,,5000.0,Data with Decision,Salary,Income,2,1900-01-02,5000.0
+2021-02-01,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-02,-5.0
+2021-02-02,Estate Mangement,900.0,,Rent,Living Expenses,Expense,2,1900-01-03,-900.0
+2021-02-02,Financail upgrade,150.0,,Cash loan,Transport,Expense,2,1900-01-03,-150.0
+2021-02-02,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-03,-5.0
+2021-02-03,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-04,-5.0
+2021-02-04,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-05,-5.0
+2021-02-05,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-06,-5.0
+2021-02-05,Green's,205.0,,Groceries,Living Expenses,Expense,2,1900-01-06,-205.0
+2021-02-08,Power source,51.1,,Gas/Electrics,Living Expenses,Expense,2,1900-01-02,-51.1
+2021-02-08,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-02,-5.0
+2021-02-09,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-03,-5.0
+2021-02-10,Fuel,78.0,,Fueling,Transport,Expense,2,1900-01-04,-78.0
+2021-02-10,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-04,-5.0
+2021-02-11,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-05,-5.0
+2021-02-12,Green's,135.9,,Groceries,Living Expenses,Expense,2,1900-01-06,-135.9
+2021-02-12,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-06,-5.0
+2021-02-13,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-07,-5.0
+2021-02-13,Cinemas,40.9,,Entertainment,Discretionary,Expense,2,1900-01-07,-40.9
+2021-02-13,Fashionistas,99.0,,Clothes,Discretionary,Expense,2,1900-01-07,-99.0
+2021-02-13,Burger,53.0,,Restaurant,Dining Out,Expense,2,1900-01-07,-53.0
+2021-02-14,Uba,28.9,,Taxi,Transport,Expense,2,1900-01-01,-28.9
+2021-02-15,Onlne earning,,800.0,YouTube,Passive,Income,2,1900-01-02,800.0
+2021-02-15,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-02,-5.0
+2021-02-16,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-03,-5.0
+2021-02-16,Phone,40.0,,Phone,Living Expenses,Expense,2,1900-01-03,-40.0
+2021-02-17,Sallah give away,45.9,,Gifts,Discretionary,Expense,2,1900-01-04,-45.9
+2021-02-17,Online streaming,35.0,,Entertainment,Discretionary,Expense,2,1900-01-04,-35.0
+2021-02-17,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-04,-5.0
+2021-02-18,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-05,-5.0
+2021-02-19,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-06,-5.0
+2021-02-19,Green's,171.0,,Groceries,Living Expenses,Expense,2,1900-01-06,-171.0
+2021-02-20,Suya,37.9,,Restaurant,Dining Out,Expense,2,1900-01-07,-37.9
+2021-02-21,Oha soup/White soup,12.9,,Restaurant,Dining Out,Expense,2,1900-01-01,-12.9
+2021-02-22,Orphanage,55.0,,Donation,Charity,Expense,2,1900-01-02,-55.0
+2021-02-22,Fuel,64.1,,Fueling,Transport,Expense,2,1900-01-02,-64.1
+2021-02-22,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-02,-5.0
+2021-02-23,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-03,-5.0
+2021-02-24,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-04,-5.0
+2021-02-25,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-05,-5.0
+2021-02-26,Drink,5.0,,Coffee,Dining Out,Expense,2,1900-01-06,-5.0
+2021-02-26,Green's,162.9,,Groceries,Living Expenses,Expense,2,1900-01-06,-162.9
+2021-02-27,Trainers,125.9,,Clothes,Discretionary,Expense,2,1900-01-07,-125.9
+2021-02-27,Global Fashion,137.0,,Clothes,Discretionary,Expense,2,1900-01-07,-137.0
+2021-02-28,Fashionistas,146.1,,Clothes,Discretionary,Expense,2,1900-01-01,-146.1
+2021-02-28,Uba,24.1,,Taxi,Transport,Expense,2,1900-01-01,-24.1
+2021-03-01,Data With Decision,,5000.0,Data with Decision,Salary,Income,3,1900-01-02,5000.0
+2021-03-01,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-02,-5.0
+2021-03-02,Estate Mangement,900.0,,Rent,Living Expenses,Expense,3,1900-01-03,-900.0
+2021-03-02,Financail upgrade,150.0,,Cash loan,Transport,Expense,3,1900-01-03,-150.0
+2021-03-02,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-03,-5.0
+2021-03-03,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-04,-5.0
+2021-03-04,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-05,-5.0
+2021-03-05,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-06,-5.0
+2021-03-05,Green's,149.0,,Groceries,Living Expenses,Expense,3,1900-01-06,-149.0
+2021-03-08,Power source,52.1,,Gas/Electrics,Living Expenses,Expense,3,1900-01-02,-52.1
+2021-03-08,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-02,-5.0
+2021-03-09,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-03,-5.0
+2021-03-10,Fuel,78.9,,Fueling,Transport,Expense,3,1900-01-04,-78.9
+2021-03-10,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-04,-5.0
+2021-03-11,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-05,-5.0
+2021-03-12,Green's,137.0,,Groceries,Living Expenses,Expense,3,1900-01-06,-137.0
+2021-03-12,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-06,-5.0
+2021-03-13,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-07,-5.0
+2021-03-13,Cinemas,41.8,,Entertainment,Discretionary,Expense,3,1900-01-07,-41.8
+2021-03-13,Fashionistas,99.9,,Clothes,Discretionary,Expense,3,1900-01-07,-99.9
+2021-03-13,Burger,54.0,,Restaurant,Dining Out,Expense,3,1900-01-07,-54.0
+2021-03-14,Uba,30.0,,Taxi,Transport,Expense,3,1900-01-01,-30.0
+2021-03-15,Onlne earning,,1000.0,YouTube,Passive,Income,3,1900-01-02,1000.0
+2021-03-15,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-02,-5.0
+2021-03-16,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-03,-5.0
+2021-03-16,Taken medication,75.0,,Doctor,Medical,Expense,3,1900-01-03,-75.0
+2021-03-16,Phone,40.0,,Phone,Living Expenses,Expense,3,1900-01-03,-40.0
+2021-03-17,Sallah give away,46.8,,Gifts,Discretionary,Expense,3,1900-01-04,-46.8
+2021-03-17,Online streaming,35.0,,Entertainment,Discretionary,Expense,3,1900-01-04,-35.0
+2021-03-17,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-04,-5.0
+2021-03-18,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-05,-5.0
+2021-03-19,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-06,-5.0
+2021-03-19,Green's,171.9,,Groceries,Living Expenses,Expense,3,1900-01-06,-171.9
+2021-03-20,Suya,39.0,,Restaurant,Dining Out,Expense,3,1900-01-07,-39.0
+2021-03-21,Oha soup/White soup,14.0,,Restaurant,Dining Out,Expense,3,1900-01-01,-14.0
+2021-03-22,Orphanage,55.0,,Donation,Charity,Expense,3,1900-01-02,-55.0
+2021-03-22,Fuel,65.0,,Fueling,Transport,Expense,3,1900-01-02,-65.0
+2021-03-22,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-02,-5.0
+2021-03-23,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-03,-5.0
+2021-03-24,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-04,-5.0
+2021-03-25,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-05,-5.0
+2021-03-26,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-06,-5.0
+2021-03-26,Green's,209.0,,Groceries,Living Expenses,Expense,3,1900-01-06,-209.0
+2021-03-27,Trainers,127.0,,Clothes,Discretionary,Expense,3,1900-01-07,-127.0
+2021-03-27,Sport ware,177.2,,Clothes,Discretionary,Expense,3,1900-01-07,-177.2
+2021-03-28,Fashionistas,147.1,,Clothes,Discretionary,Expense,3,1900-01-01,-147.1
+2021-03-28,Uba,25.0,,Taxi,Transport,Expense,3,1900-01-01,-25.0
+2021-03-29,Foodary,15.0,,Restaurant,Dining Out,Expense,3,1900-01-02,-15.0
+2021-03-30,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-03,-5.0
+2021-03-31,Drink,5.0,,Coffee,Dining Out,Expense,3,1900-01-04,-5.0
+2021-04-01,Data With Decision,,5000.0,Data with Decision,Salary,Income,4,1900-01-05,5000.0
+2021-04-01,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-05,-5.0
+2021-04-02,Estate Mangement,900.0,,Rent,Living Expenses,Expense,4,1900-01-06,-900.0
+2021-04-02,Financail upgrade,150.0,,Cash loan,Transport,Expense,4,1900-01-06,-150.0
+2021-04-02,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-06,-5.0
+2021-04-03,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-07,-5.0
+2021-04-04,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-01,-5.0
+2021-04-05,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-02,-5.0
+2021-04-05,Green's,158.2,,Groceries,Living Expenses,Expense,4,1900-01-02,-158.2
+2021-04-08,Power source,53.2,,Gas/Electrics,Living Expenses,Expense,4,1900-01-05,-53.2
+2021-04-08,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-05,-5.0
+2021-04-09,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-06,-5.0
+2021-04-10,Fuel,79.9,,Fueling,Transport,Expense,4,1900-01-07,-79.9
+2021-04-10,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-07,-5.0
+2021-04-11,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-01,-5.0
+2021-04-12,Green's,98.0,,Groceries,Living Expenses,Expense,4,1900-01-02,-98.0
+2021-04-12,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-02,-5.0
+2021-04-13,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-03,-5.0
+2021-04-13,Cinemas,42.8,,Entertainment,Discretionary,Expense,4,1900-01-03,-42.8
+2021-04-13,Fashionistas,100.9,,Clothes,Discretionary,Expense,4,1900-01-03,-100.9
+2021-04-13,Burger,54.9,,Restaurant,Dining Out,Expense,4,1900-01-03,-54.9
+2021-04-14,Uba,31.0,,Taxi,Transport,Expense,4,1900-01-04,-31.0
+2021-04-15,Onlne earning,,2340.0,YouTube,Passive,Income,4,1900-01-05,2340.0
+2021-04-15,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-05,-5.0
+2021-04-16,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-06,-5.0
+2021-04-16,Phone,40.0,,Phone,Living Expenses,Expense,4,1900-01-06,-40.0
+2021-04-17,Sallah give away,47.9,,Gifts,Discretionary,Expense,4,1900-01-07,-47.9
+2021-04-17,Online streaming,35.0,,Entertainment,Discretionary,Expense,4,1900-01-07,-35.0
+2021-04-17,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-07,-5.0
+2021-04-18,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-01,-5.0
+2021-04-19,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-02,-5.0
+2021-04-19,Green's,173.0,,Groceries,Living Expenses,Expense,4,1900-01-02,-173.0
+2021-04-20,Suya,40.1,,Restaurant,Dining Out,Expense,4,1900-01-03,-40.1
+2021-04-21,Oha soup/White soup,15.1,,Restaurant,Dining Out,Expense,4,1900-01-04,-15.1
+2021-04-22,Orphanage,55.0,,Donation,Charity,Expense,4,1900-01-05,-55.0
+2021-04-22,Fuel,66.0,,Fueling,Transport,Expense,4,1900-01-05,-66.0
+2021-04-22,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-05,-5.0
+2021-04-23,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-06,-5.0
+2021-04-24,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-07,-5.0
+2021-04-25,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-01,-5.0
+2021-04-26,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-02,-5.0
+2021-04-26,Green's,164.9,,Groceries,Living Expenses,Expense,4,1900-01-02,-164.9
+2021-04-27,Trainers,127.9,,Clothes,Discretionary,Expense,4,1900-01-03,-127.9
+2021-04-27,Clubing,300.0,,Entertainment,Discretionary,Expense,4,1900-01-03,-300.0
+2021-04-28,Fashionistas,148.1,,Clothes,Discretionary,Expense,4,1900-01-04,-148.1
+2021-04-28,Uba,26.1,,Taxi,Transport,Expense,4,1900-01-04,-26.1
+2021-04-29,Foodary,15.0,,Restaurant,Dining Out,Expense,4,1900-01-05,-15.0
+2021-04-29,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-05,-5.0
+2021-04-30,Drink,5.0,,Coffee,Dining Out,Expense,4,1900-01-06,-5.0
+2021-05-02,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-01,-5.0
+2021-05-03,Data With Decision,,5000.0,Data with Decision,Salary,Income,5,1900-01-02,5000.0
+2021-05-03,Estate Mangement,900.0,,Rent,Living Expenses,Expense,5,1900-01-02,-900.0
+2021-05-03,Financail upgrade,150.0,,Cash loan,Transport,Expense,5,1900-01-02,-150.0
+2021-05-03,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-02,-5.0
+2021-05-04,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-03,-5.0
+2021-05-05,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-04,-5.0
+2021-05-06,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-05,-5.0
+2021-05-06,Green's,170.0,,Groceries,Living Expenses,Expense,5,1900-01-05,-170.0
+2021-05-09,Power source,54.1,,Gas/Electrics,Living Expenses,Expense,5,1900-01-01,-54.1
+2021-05-09,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-01,-5.0
+2021-05-10,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-02,-5.0
+2021-05-11,Fuel,81.0,,Fueling,Transport,Expense,5,1900-01-03,-81.0
+2021-05-11,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-03,-5.0
+2021-05-12,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-04,-5.0
+2021-05-13,Green's,139.1,,Groceries,Living Expenses,Expense,5,1900-01-05,-139.1
+2021-05-13,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-05,-5.0
+2021-05-14,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-06,-5.0
+2021-05-14,Cinemas,43.9,,Entertainment,Discretionary,Expense,5,1900-01-06,-43.9
+2021-05-14,Fashionistas,101.80000000000001,,Clothes,Discretionary,Expense,5,1900-01-06,-101.80000000000001
+2021-05-14,Burger,55.9,,Restaurant,Dining Out,Expense,5,1900-01-06,-55.9
+2021-05-15,Uba,32.0,,Taxi,Transport,Expense,5,1900-01-07,-32.0
+2021-05-16,Onlne earning,,1000.0,YouTube,Passive,Income,5,1900-01-01,1000.0
+2021-05-16,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-01,-5.0
+2021-05-17,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-02,-5.0
+2021-05-17,Taken medication,75.0,,Doctor,Medical,Expense,5,1900-01-02,-75.0
+2021-05-17,Phone,40.0,,Phone,Living Expenses,Expense,5,1900-01-02,-40.0
+2021-05-18,Sallah give away,49.0,,Gifts,Discretionary,Expense,5,1900-01-03,-49.0
+2021-05-18,Online streaming,35.0,,Entertainment,Discretionary,Expense,5,1900-01-03,-35.0
+2021-05-18,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-03,-5.0
+2021-05-19,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-04,-5.0
+2021-05-20,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-05,-5.0
+2021-05-20,Green's,174.0,,Groceries,Living Expenses,Expense,5,1900-01-05,-174.0
+2021-05-21,Suya,41.1,,Restaurant,Dining Out,Expense,5,1900-01-06,-41.1
+2021-05-22,Oha soup/White soup,16.2,,Restaurant,Dining Out,Expense,5,1900-01-07,-16.2
+2021-05-23,Orphanage,55.0,,Donation,Charity,Expense,5,1900-01-01,-55.0
+2021-05-23,Fuel,67.0,,Fueling,Transport,Expense,5,1900-01-01,-67.0
+2021-05-23,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-01,-5.0
+2021-05-24,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-02,-5.0
+2021-05-25,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-03,-5.0
+2021-05-26,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-04,-5.0
+2021-05-27,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-05,-5.0
+2021-05-27,Green's,165.8,,Groceries,Living Expenses,Expense,5,1900-01-05,-165.8
+2021-05-28,Trainers,128.8,,Clothes,Discretionary,Expense,5,1900-01-06,-128.8
+2021-05-28,Home décor,235.0,,Furnishings,Discretionary,Expense,5,1900-01-06,-235.0
+2021-05-29,Fashionistas,149.2,,Clothes,Discretionary,Expense,5,1900-01-07,-149.2
+2021-05-29,Uba,27.200000000000003,,Taxi,Transport,Expense,5,1900-01-07,-27.200000000000003
+2021-05-31,Foodary,15.0,,Restaurant,Dining Out,Expense,5,1900-01-02,-15.0
+2021-05-30,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-01,-5.0
+2021-05-31,Drink,5.0,,Coffee,Dining Out,Expense,5,1900-01-02,-5.0
+2021-06-01,Data With Decision,,5000.0,Data with Decision,Salary,Income,6,1900-01-03,5000.0
+2021-06-03,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-05,-5.0
+2021-06-03,Estate Mangement,900.0,,Rent,Living Expenses,Expense,6,1900-01-05,-900.0
+2021-06-03,Financail upgrade,150.0,,Cash loan,Transport,Expense,6,1900-01-05,-150.0
+2021-06-03,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-05,-5.0
+2021-06-04,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-06,-5.0
+2021-06-05,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-07,-5.0
+2021-06-06,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-01,-5.0
+2021-06-06,Green's,119.0,,Groceries,Living Expenses,Expense,6,1900-01-01,-119.0
+2021-06-09,Power source,55.0,,Gas/Electrics,Living Expenses,Expense,6,1900-01-04,-55.0
+2021-06-09,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-04,-5.0
+2021-06-10,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-05,-5.0
+2021-06-11,Fuel,82.1,,Fueling,Transport,Expense,6,1900-01-06,-82.1
+2021-06-11,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-06,-5.0
+2021-06-12,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-07,-5.0
+2021-06-13,Green's,140.2,,Groceries,Living Expenses,Expense,6,1900-01-01,-140.2
+2021-06-13,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-01,-5.0
+2021-06-14,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-02,-5.0
+2021-06-14,Cinemas,44.9,,Entertainment,Discretionary,Expense,6,1900-01-02,-44.9
+2021-06-14,Fashionistas,102.9,,Clothes,Discretionary,Expense,6,1900-01-02,-102.9
+2021-06-14,Burger,56.9,,Restaurant,Dining Out,Expense,6,1900-01-02,-56.9
+2021-06-15,Uba,33.1,,Taxi,Transport,Expense,6,1900-01-03,-33.1
+2021-06-16,Onlne earning,,100.0,YouTube,Passive,Income,6,1900-01-04,100.0
+2021-06-16,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-04,-5.0
+2021-06-17,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-05,-5.0
+2021-06-17,Phone,40.0,,Phone,Living Expenses,Expense,6,1900-01-05,-40.0
+2021-06-18,Sallah give away,50.1,,Gifts,Discretionary,Expense,6,1900-01-06,-50.1
+2021-06-18,Online streaming,35.0,,Entertainment,Discretionary,Expense,6,1900-01-06,-35.0
+2021-06-18,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-06,-5.0
+2021-06-19,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-07,-5.0
+2021-06-20,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-01,-5.0
+2021-06-20,Green's,234.0,,Groceries,Living Expenses,Expense,6,1900-01-01,-234.0
+2021-06-21,Suya,42.1,,Restaurant,Dining Out,Expense,6,1900-01-02,-42.1
+2021-06-22,Oha soup/White soup,17.099999999999998,,Restaurant,Dining Out,Expense,6,1900-01-03,-17.099999999999998
+2021-06-23,Orphanage,55.0,,Donation,Charity,Expense,6,1900-01-04,-55.0
+2021-06-23,Fuel,67.9,,Fueling,Transport,Expense,6,1900-01-04,-67.9
+2021-06-23,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-04,-5.0
+2021-06-24,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-05,-5.0
+2021-06-25,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-06,-5.0
+2021-06-26,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-07,-5.0
+2021-06-27,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-01,-5.0
+2021-06-27,Green's,166.9,,Groceries,Living Expenses,Expense,6,1900-01-01,-166.9
+2021-06-28,Trainers,129.9,,Clothes,Discretionary,Expense,6,1900-01-02,-129.9
+2021-06-28,Hangingout/Ticket,180.29999999999998,,Entertainment,Discretionary,Expense,6,1900-01-02,-180.29999999999998
+2021-06-29,Fashionistas,150.1,,Clothes,Discretionary,Expense,6,1900-01-03,-150.1
+2021-06-29,Uba,28.200000000000003,,Taxi,Transport,Expense,6,1900-01-03,-28.200000000000003
+2021-06-29,Foodary,15.0,,Restaurant,Dining Out,Expense,6,1900-01-03,-15.0
+2021-06-30,Drink,5.0,,Coffee,Dining Out,Expense,6,1900-01-04,-5.0
+2021-07-01,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-05,-5.0
+2021-07-02,Data With Decision,,5000.0,Data with Decision,Salary,Income,7,1900-01-06,5000.0
+2021-07-03,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-07,-5.0
+2021-07-05,Estate Mangement,900.0,,Rent,Living Expenses,Expense,7,1900-01-02,-900.0
+2021-07-05,Financail upgrade,150.0,,Cash loan,Transport,Expense,7,1900-01-02,-150.0
+2021-07-05,Feedings,15.0,,Restaurant,Dining Out,Expense,7,1900-01-02,-15.0
+2021-07-05,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-02,-5.0
+2021-07-06,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-03,-5.0
+2021-07-07,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-04,-5.0
+2021-07-07,Green's,180.0,,Groceries,Living Expenses,Expense,7,1900-01-04,-180.0
+2021-07-10,Power source,56.1,,Gas/Electrics,Living Expenses,Expense,7,1900-01-07,-56.1
+2021-07-10,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-07,-5.0
+2021-07-11,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-01,-5.0
+2021-07-12,Fuel,83.1,,Fueling,Transport,Expense,7,1900-01-02,-83.1
+2021-07-12,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-02,-5.0
+2021-07-13,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-03,-5.0
+2021-07-14,Green's,141.1,,Groceries,Living Expenses,Expense,7,1900-01-04,-141.1
+2021-07-14,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-04,-5.0
+2021-07-15,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-05,-5.0
+2021-07-15,Cinemas,45.8,,Entertainment,Discretionary,Expense,7,1900-01-05,-45.8
+2021-07-15,Fashionistas,103.80000000000001,,Clothes,Discretionary,Expense,7,1900-01-05,-103.80000000000001
+2021-07-15,Burger,58.0,,Restaurant,Dining Out,Expense,7,1900-01-05,-58.0
+2021-07-16,Uba,34.2,,Taxi,Transport,Expense,7,1900-01-06,-34.2
+2021-07-17,Onlne earning,,200.0,YouTube,Passive,Income,7,1900-01-07,200.0
+2021-07-17,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-07,-5.0
+2021-07-18,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-01,-5.0
+2021-07-18,Phone,40.0,,Phone,Living Expenses,Expense,7,1900-01-01,-40.0
+2021-07-19,Sallah give away,51.1,,Gifts,Discretionary,Expense,7,1900-01-02,-51.1
+2021-07-19,Online streaming,35.0,,Entertainment,Discretionary,Expense,7,1900-01-02,-35.0
+2021-07-19,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-02,-5.0
+2021-07-20,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-03,-5.0
+2021-07-21,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-04,-5.0
+2021-07-21,Green's,176.0,,Groceries,Living Expenses,Expense,7,1900-01-04,-176.0
+2021-07-22,Suya,43.1,,Restaurant,Dining Out,Expense,7,1900-01-05,-43.1
+2021-07-23,Oha soup/White soup,18.2,,Restaurant,Dining Out,Expense,7,1900-01-06,-18.2
+2021-07-24,Orphanage,55.0,,Donation,Charity,Expense,7,1900-01-07,-55.0
+2021-07-24,Fuel,68.80000000000001,,Fueling,Transport,Expense,7,1900-01-07,-68.80000000000001
+2021-07-24,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-07,-5.0
+2021-07-25,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-01,-5.0
+2021-07-26,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-02,-5.0
+2021-07-27,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-03,-5.0
+2021-07-28,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-04,-5.0
+2021-07-28,Green's,193.0,,Groceries,Living Expenses,Expense,7,1900-01-04,-193.0
+2021-07-29,Trainers,130.8,,Clothes,Discretionary,Expense,7,1900-01-05,-130.8
+2021-07-29,Home décor,181.39999999999998,,Furnishings,Discretionary,Expense,7,1900-01-05,-181.39999999999998
+2021-07-30,Fashionistas,151.2,,Clothes,Discretionary,Expense,7,1900-01-06,-151.2
+2021-07-30,Uba,29.300000000000004,,Taxi,Transport,Expense,7,1900-01-06,-29.300000000000004
+2021-07-30,Foodary,15.0,,Restaurant,Dining Out,Expense,7,1900-01-06,-15.0
+2021-07-31,Drink,5.0,,Coffee,Dining Out,Expense,7,1900-01-07,-5.0
+2021-08-02,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-02,-5.0
+2021-08-02,Data With Decision,,5000.0,Data with Decision,Salary,Income,8,1900-01-02,5000.0
+2021-08-03,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-03,-5.0
+2021-08-05,Estate Mangement,900.0,,Rent,Living Expenses,Expense,8,1900-01-05,-900.0
+2021-08-05,Financail upgrade,150.0,,Cash loan,Transport,Expense,8,1900-01-05,-150.0
+2021-08-05,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-05,-5.0
+2021-08-05,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-05,-5.0
+2021-08-06,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-06,-5.0
+2021-08-07,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-07,-5.0
+2021-08-07,Green's,137.0,,Groceries,Living Expenses,Expense,8,1900-01-07,-137.0
+2021-08-10,Power source,57.0,,Gas/Electrics,Living Expenses,Expense,8,1900-01-03,-57.0
+2021-08-10,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-03,-5.0
+2021-08-11,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-04,-5.0
+2021-08-12,Fuel,84.19999999999999,,Fueling,Transport,Expense,8,1900-01-05,-84.19999999999999
+2021-08-12,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-05,-5.0
+2021-08-13,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-06,-5.0
+2021-08-14,Green's,142.1,,Groceries,Living Expenses,Expense,8,1900-01-07,-142.1
+2021-08-14,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-07,-5.0
+2021-08-15,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-01,-5.0
+2021-08-15,Cinemas,46.8,,Entertainment,Discretionary,Expense,8,1900-01-01,-46.8
+2021-08-15,Fashionistas,104.70000000000002,,Clothes,Discretionary,Expense,8,1900-01-01,-104.70000000000002
+2021-08-15,Burger,59.1,,Restaurant,Dining Out,Expense,8,1900-01-01,-59.1
+2021-08-16,Uba,35.1,,Taxi,Transport,Expense,8,1900-01-02,-35.1
+2021-08-17,Onlne earning,,800.0,YouTube,Passive,Income,8,1900-01-03,800.0
+2021-08-17,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-03,-5.0
+2021-08-18,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-04,-5.0
+2021-08-18,Phone,40.0,,Phone,Living Expenses,Expense,8,1900-01-04,-40.0
+2021-08-19,Sallah give away,52.1,,Gifts,Discretionary,Expense,8,1900-01-05,-52.1
+2021-08-19,Online streaming,35.0,,Entertainment,Discretionary,Expense,8,1900-01-05,-35.0
+2021-08-19,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-05,-5.0
+2021-08-20,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-06,-5.0
+2021-08-21,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-07,-5.0
+2021-08-21,Green's,177.0,,Groceries,Living Expenses,Expense,8,1900-01-07,-177.0
+2021-08-22,Suya,44.2,,Restaurant,Dining Out,Expense,8,1900-01-01,-44.2
+2021-08-23,Oha soup/White soup,19.2,,Restaurant,Dining Out,Expense,8,1900-01-02,-19.2
+2021-08-24,Orphanage,55.0,,Donation,Charity,Expense,8,1900-01-03,-55.0
+2021-08-24,Fuel,69.70000000000002,,Fueling,Transport,Expense,8,1900-01-03,-69.70000000000002
+2021-08-24,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-03,-5.0
+2021-08-25,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-04,-5.0
+2021-08-26,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-05,-5.0
+2021-08-27,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-06,-5.0
+2021-08-28,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-07,-5.0
+2021-08-28,Green's,117.0,,Groceries,Living Expenses,Expense,8,1900-01-07,-117.0
+2021-08-29,Trainers,131.9,,Clothes,Discretionary,Expense,8,1900-01-01,-131.9
+2021-08-29,Hangingout/Ticket,182.39999999999998,,Entertainment,Discretionary,Expense,8,1900-01-01,-182.39999999999998
+2021-08-30,Fashionistas,152.29999999999998,,Clothes,Discretionary,Expense,8,1900-01-02,-152.29999999999998
+2021-08-30,Uba,30.300000000000004,,Taxi,Transport,Expense,8,1900-01-02,-30.300000000000004
+2021-08-30,Foodary,15.0,,Restaurant,Dining Out,Expense,8,1900-01-02,-15.0
+2021-08-31,Drink,5.0,,Coffee,Dining Out,Expense,8,1900-01-03,-5.0
+2021-09-02,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-05,-5.0
+2021-09-02,Data With Decision,,5000.0,Data with Decision,Salary,Income,9,1900-01-05,5000.0
+2021-09-03,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-06,-5.0
+2021-09-05,Estate Mangement,900.0,,Rent,Living Expenses,Expense,9,1900-01-01,-900.0
+2021-09-05,Financail upgrade,150.0,,Cash loan,Transport,Expense,9,1900-01-01,-150.0
+2021-09-05,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-01,-5.0
+2021-09-05,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-01,-5.0
+2021-09-06,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-02,-5.0
+2021-09-07,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-03,-5.0
+2021-09-07,Green's,163.39999999999998,,Groceries,Living Expenses,Expense,9,1900-01-03,-163.39999999999998
+2021-09-10,Power source,58.1,,Gas/Electrics,Living Expenses,Expense,9,1900-01-06,-58.1
+2021-09-10,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-06,-5.0
+2021-09-11,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-07,-5.0
+2021-09-12,Fuel,85.29999999999998,,Fueling,Transport,Expense,9,1900-01-01,-85.29999999999998
+2021-09-12,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-01,-5.0
+2021-09-13,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-02,-5.0
+2021-09-14,Green's,143.0,,Groceries,Living Expenses,Expense,9,1900-01-03,-143.0
+2021-09-14,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-03,-5.0
+2021-09-15,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-04,-5.0
+2021-09-15,Cinemas,47.8,,Entertainment,Discretionary,Expense,9,1900-01-04,-47.8
+2021-09-15,Fashionistas,105.80000000000001,,Clothes,Discretionary,Expense,9,1900-01-04,-105.80000000000001
+2021-09-15,Burger,60.1,,Restaurant,Dining Out,Expense,9,1900-01-04,-60.1
+2021-09-16,Uba,36.2,,Taxi,Transport,Expense,9,1900-01-05,-36.2
+2021-09-17,Onlne earning,,100.0,YouTube,Passive,Income,9,1900-01-06,100.0
+2021-09-17,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-06,-5.0
+2021-09-18,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-07,-5.0
+2021-09-18,Phone,40.0,,Phone,Living Expenses,Expense,9,1900-01-07,-40.0
+2021-09-19,Sallah give away,53.0,,Gifts,Discretionary,Expense,9,1900-01-01,-53.0
+2021-09-19,Online streaming,35.0,,Entertainment,Discretionary,Expense,9,1900-01-01,-35.0
+2021-09-19,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-01,-5.0
+2021-09-20,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-02,-5.0
+2021-09-21,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-03,-5.0
+2021-09-21,Green's,177.9,,Groceries,Living Expenses,Expense,9,1900-01-03,-177.9
+2021-09-22,Suya,45.300000000000004,,Restaurant,Dining Out,Expense,9,1900-01-04,-45.300000000000004
+2021-09-23,Oha soup/White soup,20.099999999999998,,Restaurant,Dining Out,Expense,9,1900-01-05,-20.099999999999998
+2021-09-24,Orphanage,55.0,,Donation,Charity,Expense,9,1900-01-06,-55.0
+2021-09-24,Fuel,70.60000000000002,,Fueling,Transport,Expense,9,1900-01-06,-70.60000000000002
+2021-09-24,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-06,-5.0
+2021-09-25,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-07,-5.0
+2021-09-26,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-01,-5.0
+2021-09-27,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-02,-5.0
+2021-09-28,Drink,5.0,,Coffee,Dining Out,Expense,9,1900-01-03,-5.0
+2021-09-28,Green's,223.0,,Groceries,Living Expenses,Expense,9,1900-01-03,-223.0
+2021-09-29,Trainers,132.9,,Clothes,Discretionary,Expense,9,1900-01-04,-132.9
+2021-09-29,Global Fashion,175.0,,Clothes,Discretionary,Expense,9,1900-01-04,-175.0
+2021-09-30,Fashionistas,153.39999999999998,,Clothes,Discretionary,Expense,9,1900-01-05,-153.39999999999998
+2021-09-30,Uba,31.200000000000003,,Taxi,Transport,Expense,9,1900-01-05,-31.200000000000003
+2021-09-30,Foodary,15.0,,Restaurant,Dining Out,Expense,9,1900-01-05,-15.0
+2021-10-01,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-06,-5.0
+2021-10-03,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-01,-5.0
+2021-10-03,Data With Decision,,5000.0,Data with Decision,Salary,Income,10,1900-01-01,5000.0
+2021-10-04,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-02,-5.0
+2021-10-06,Estate Mangement,900.0,,Rent,Living Expenses,Expense,10,1900-01-04,-900.0
+2021-10-06,Financail upgrade,150.0,,Cash loan,Transport,Expense,10,1900-01-04,-150.0
+2021-10-06,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-04,-5.0
+2021-10-06,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-04,-5.0
+2021-10-07,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-05,-5.0
+2021-10-08,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-06,-5.0
+2021-10-08,Green's,105.0,,Groceries,Living Expenses,Expense,10,1900-01-06,-105.0
+2021-10-11,Power source,59.0,,Gas/Electrics,Living Expenses,Expense,10,1900-01-02,-59.0
+2021-10-11,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-02,-5.0
+2021-10-12,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-03,-5.0
+2021-10-13,Fuel,86.39999999999998,,Fueling,Transport,Expense,10,1900-01-04,-86.39999999999998
+2021-10-13,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-04,-5.0
+2021-10-14,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-05,-5.0
+2021-10-15,Green's,143.9,,Groceries,Living Expenses,Expense,10,1900-01-06,-143.9
+2021-10-15,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-06,-5.0
+2021-10-16,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-07,-5.0
+2021-10-16,Cinemas,48.8,,Entertainment,Discretionary,Expense,10,1900-01-07,-48.8
+2021-10-16,Fashionistas,106.70000000000002,,Clothes,Discretionary,Expense,10,1900-01-07,-106.70000000000002
+2021-10-16,Burger,61.1,,Restaurant,Dining Out,Expense,10,1900-01-07,-61.1
+2021-10-17,Uba,37.2,,Taxi,Transport,Expense,10,1900-01-01,-37.2
+2021-10-18,Onlne earning,,100.0,YouTube,Passive,Income,10,1900-01-02,100.0
+2021-10-18,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-02,-5.0
+2021-10-19,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-03,-5.0
+2021-10-19,Taken medication,75.0,,Doctor,Medical,Expense,10,1900-01-03,-75.0
+2021-10-19,Phone,40.0,,Phone,Living Expenses,Expense,10,1900-01-03,-40.0
+2021-10-20,Sallah give away,54.1,,Gifts,Discretionary,Expense,10,1900-01-04,-54.1
+2021-10-20,Online streaming,35.0,,Entertainment,Discretionary,Expense,10,1900-01-04,-35.0
+2021-10-20,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-04,-5.0
+2021-10-21,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-05,-5.0
+2021-10-22,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-06,-5.0
+2021-10-22,Green's,178.9,,Groceries,Living Expenses,Expense,10,1900-01-06,-178.9
+2021-10-23,Suya,46.2,,Restaurant,Dining Out,Expense,10,1900-01-07,-46.2
+2021-10-24,Oha soup/White soup,21.099999999999998,,Restaurant,Dining Out,Expense,10,1900-01-01,-21.099999999999998
+2021-10-25,Orphanage,55.0,,Donation,Charity,Expense,10,1900-01-02,-55.0
+2021-10-25,Fuel,71.50000000000003,,Fueling,Transport,Expense,10,1900-01-02,-71.50000000000003
+2021-10-25,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-02,-5.0
+2021-10-26,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-03,-5.0
+2021-10-27,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-04,-5.0
+2021-10-28,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-05,-5.0
+2021-10-29,Drink,5.0,,Coffee,Dining Out,Expense,10,1900-01-06,-5.0
+2021-10-29,Green's,189.0,,Groceries,Living Expenses,Expense,10,1900-01-06,-189.0
+2021-10-30,Trainers,133.8,,Clothes,Discretionary,Expense,10,1900-01-07,-133.8
+2021-10-30,Hangingout/Ticket,184.39999999999998,,Entertainment,Discretionary,Expense,10,1900-01-07,-184.39999999999998
+2021-10-31,Fashionistas,154.49999999999997,,Clothes,Discretionary,Expense,10,1900-01-01,-154.49999999999997
+2021-10-31,Uba,32.1,,Taxi,Transport,Expense,10,1900-01-01,-32.1
+2021-10-31,Foodary,15.0,,Restaurant,Dining Out,Expense,10,1900-01-01,-15.0
+2021-11-01,Data With Decision,,5000.0,Data with Decision,Salary,Income,11,1900-01-02,5000.0
+2021-11-01,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-02,-5.0
+2021-11-02,Estate Mangement,900.0,,Rent,Living Expenses,Expense,11,1900-01-03,-900.0
+2021-11-02,Financail upgrade,150.0,,Cash loan,Transport,Expense,11,1900-01-03,-150.0
+2021-11-02,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-03,-5.0
+2021-11-03,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-04,-5.0
+2021-11-04,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-05,-5.0
+2021-11-05,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-06,-5.0
+2021-11-05,Green's,170.0,,Groceries,Living Expenses,Expense,11,1900-01-06,-170.0
+2021-11-08,Power source,60.0,,Gas/Electrics,Living Expenses,Expense,11,1900-01-02,-60.0
+2021-11-08,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-02,-5.0
+2021-11-09,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-03,-5.0
+2021-11-10,Fuel,87.5,,Fueling,Transport,Expense,11,1900-01-04,-87.5
+2021-11-10,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-04,-5.0
+2021-11-11,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-05,-5.0
+2021-11-12,Green's,145.0,,Groceries,Living Expenses,Expense,11,1900-01-06,-145.0
+2021-11-12,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-06,-5.0
+2021-11-13,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-07,-5.0
+2021-11-13,Cinemas,49.8,,Entertainment,Discretionary,Expense,11,1900-01-07,-49.8
+2021-11-13,Fashionistas,107.5,,Clothes,Discretionary,Expense,11,1900-01-07,-107.5
+2021-11-13,Burger,62.0,,Restaurant,Dining Out,Expense,11,1900-01-07,-62.0
+2021-11-14,Uba,38.0,,Taxi,Transport,Expense,11,1900-01-01,-38.0
+2021-11-15,Onlne earning,,1000.0,YouTube,Passive,Income,11,1900-01-02,1000.0
+2021-11-15,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-02,-5.0
+2021-11-16,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-03,-5.0
+2021-11-16,Phone,40.0,,Phone,Living Expenses,Expense,11,1900-01-03,-40.0
+2021-11-17,Sallah give away,55.0,,Gifts,Discretionary,Expense,11,1900-01-04,-55.0
+2021-11-17,Online streaming,35.0,,Entertainment,Discretionary,Expense,11,1900-01-04,-35.0
+2021-11-17,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-04,-5.0
+2021-11-18,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-05,-5.0
+2021-11-19,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-06,-5.0
+2021-11-19,Green's,180.0,,Groceries,Living Expenses,Expense,11,1900-01-06,-180.0
+2021-11-20,Suya,47.0,,Restaurant,Dining Out,Expense,11,1900-01-07,-47.0
+2021-11-21,Oha soup/White soup,22.0,,Restaurant,Dining Out,Expense,11,1900-01-01,-22.0
+2021-11-22,Orphanage,55.0,,Donation,Charity,Expense,11,1900-01-02,-55.0
+2021-11-22,Fuel,72.5,,Fueling,Transport,Expense,11,1900-01-02,-72.5
+2021-11-22,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-02,-5.0
+2021-11-23,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-03,-5.0
+2021-11-24,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-04,-5.0
+2021-11-25,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-05,-5.0
+2021-11-26,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-06,-5.0
+2021-11-26,Green's,190.0,,Groceries,Living Expenses,Expense,11,1900-01-06,-190.0
+2021-11-27,Trainers,135.0,,Clothes,Discretionary,Expense,11,1900-01-07,-135.0
+2021-11-27,Hangingout/Ticket,185.0,,Entertainment,Discretionary,Expense,11,1900-01-07,-185.0
+2021-11-28,Fashionistas,155.0,,Clothes,Discretionary,Expense,11,1900-01-01,-155.0
+2021-11-28,Uba,33.0,,Taxi,Transport,Expense,11,1900-01-01,-33.0
+2021-11-29,Foodary,15.0,,Restaurant,Dining Out,Expense,11,1900-01-02,-15.0
+2021-11-30,Drink,5.0,,Coffee,Dining Out,Expense,11,1900-01-03,-5.0
+2021-12-01,Data With Decision,,5000.0,Data with Decision,Salary,Income,12,1900-01-04,5000.0
+2021-12-01,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-04,-5.0
+2021-12-02,Estate Mangement,900.0,,Rent,Living Expenses,Expense,12,1900-01-05,-900.0
+2021-12-02,Financail upgrade,150.0,,Cash loan,Transport,Expense,12,1900-01-05,-150.0
+2021-12-02,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-05,-5.0
+2021-12-03,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-06,-5.0
+2021-12-04,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-07,-5.0
+2021-12-05,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-01,-5.0
+2021-12-05,Green's,175.0,,Groceries,Living Expenses,Expense,12,1900-01-01,-175.0
+2021-12-08,Power source,61.0,,Gas/Electrics,Living Expenses,Expense,12,1900-01-05,-61.0
+2021-12-08,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-05,-5.0
+2021-12-09,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-06,-5.0
+2021-12-10,Fuel,88.5,,Fueling,Transport,Expense,12,1900-01-07,-88.5
+2021-12-10,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-07,-5.0
+2021-12-11,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-01,-5.0
+2021-12-12,Green's,147.0,,Groceries,Living Expenses,Expense,12,1900-01-02,-147.0
+2021-12-12,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-02,-5.0
+2021-12-13,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-03,-5.0
+2021-12-13,Cinemas,50.8,,Entertainment,Discretionary,Expense,12,1900-01-03,-50.8
+2021-12-13,Fashionistas,108.5,,Clothes,Discretionary,Expense,12,1900-01-03,-108.5
+2021-12-13,Burger,63.0,,Restaurant,Dining Out,Expense,12,1900-01-03,-63.0
+2021-12-14,Uba,39.0,,Taxi,Transport,Expense,12,1900-01-04,-39.0
+2021-12-15,Onlne earning,,1000.0,YouTube,Passive,Income,12,1900-01-05,1000.0
+2021-12-15,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-05,-5.0
+2021-12-16,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-06,-5.0
+2021-12-16,Phone,40.0,,Phone,Living Expenses,Expense,12,1900-01-06,-40.0
+2021-12-17,Sallah give away,56.0,,Gifts,Discretionary,Expense,12,1900-01-07,-56.0
+2021-12-17,Online streaming,35.0,,Entertainment,Discretionary,Expense,12,1900-01-07,-35.0
+2021-12-17,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-07,-5.0
+2021-12-18,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-01,-5.0
+2021-12-19,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-02,-5.0
+2021-12-19,Green's,182.0,,Groceries,Living Expenses,Expense,12,1900-01-02,-182.0
+2021-12-20,Suya,48.0,,Restaurant,Dining Out,Expense,12,1900-01-03,-48.0
+2021-12-21,Oha soup/White soup,23.0,,Restaurant,Dining Out,Expense,12,1900-01-04,-23.0
+2021-12-22,Orphanage,55.0,,Donation,Charity,Expense,12,1900-01-05,-55.0
+2021-12-22,Fuel,73.5,,Fueling,Transport,Expense,12,1900-01-05,-73.5
+2021-12-22,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-05,-5.0
+2021-12-23,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-06,-5.0
+2021-12-24,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-07,-5.0
+2021-12-25,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-01,-5.0
+2021-12-26,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-02,-5.0
+2021-12-26,Green's,192.0,,Groceries,Living Expenses,Expense,12,1900-01-02,-192.0
+2021-12-27,Trainers,136.0,,Clothes,Discretionary,Expense,12,1900-01-03,-136.0
+2021-12-27,Hangingout/Ticket,186.0,,Entertainment,Discretionary,Expense,12,1900-01-03,-186.0
+2021-12-28,Fashionistas,156.0,,Clothes,Discretionary,Expense,12,1900-01-04,-156.0
+2021-12-28,Uba,34.0,,Taxi,Transport,Expense,12,1900-01-04,-34.0
+2021-12-29,Foodary,15.0,,Restaurant,Dining Out,Expense,12,1900-01-05,-15.0
+2021-12-30,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-06,-5.0
+2021-12-31,Drink,5.0,,Coffee,Dining Out,Expense,12,1900-01-07,-5.0
+2022-01-01,Data With Decision,,5200.0,Data with Decision,Salary,Income,13,1900-01-02,5200.0
+2022-01-01,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-02,-5.5
+2022-01-02,Estate Mangement,920.0,,Rent,Living Expenses,Expense,13,1900-01-03,-920.0
+2022-01-02,Financail upgrade,160.0,,Cash loan,Transport,Expense,13,1900-01-03,-160.0
+2022-01-02,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-03,-5.5
+2022-01-03,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-04,-5.5
+2022-01-04,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-05,-5.5
+2022-01-05,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-06,-5.5
+2022-01-05,Green's,180.0,,Groceries,Living Expenses,Expense,13,1900-01-06,-180.0
+2022-01-08,Power source,62.0,,Gas/Electrics,Living Expenses,Expense,13,1900-01-02,-62.0
+2022-01-08,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-02,-5.5
+2022-01-09,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-03,-5.5
+2022-01-10,Fuel,89.5,,Fueling,Transport,Expense,13,1900-01-04,-89.5
+2022-01-10,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-04,-5.5
+2022-01-11,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-05,-5.5
+2022-01-12,Green's,150.0,,Groceries,Living Expenses,Expense,13,1900-01-06,-150.0
+2022-01-12,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-06,-5.5
+2022-01-13,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-07,-5.5
+2022-01-13,Cinemas,51.8,,Entertainment,Discretionary,Expense,13,1900-01-07,-51.8
+2022-01-13,Fashionistas,110.0,,Clothes,Discretionary,Expense,13,1900-01-07,-110.0
+2022-01-13,Burger,64.0,,Restaurant,Dining Out,Expense,13,1900-01-07,-64.0
+2022-01-14,Uba,40.0,,Taxi,Transport,Expense,13,1900-01-01,-40.0
+2022-01-15,Onlne earning,,1200.0,YouTube,Passive,Income,13,1900-01-02,1200.0
+2022-01-15,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-02,-5.5
+2022-01-16,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-03,-5.5
+2022-01-16,Phone,42.0,,Phone,Living Expenses,Expense,13,1900-01-03,-42.0
+2022-01-17,Sallah give away,57.0,,Gifts,Discretionary,Expense,13,1900-01-04,-57.0
+2022-01-17,Online streaming,36.0,,Entertainment,Discretionary,Expense,13,1900-01-04,-36.0
+2022-01-17,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-04,-5.5
+2022-01-18,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-05,-5.5
+2022-01-19,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-06,-5.5
+2022-01-19,Green's,185.0,,Groceries,Living Expenses,Expense,13,1900-01-06,-185.0
+2022-01-20,Suya,49.0,,Restaurant,Dining Out,Expense,13,1900-01-07,-49.0
+2022-01-21,Oha soup/White soup,24.0,,Restaurant,Dining Out,Expense,13,1900-01-01,-24.0
+2022-01-22,Orphanage,55.0,,Donation,Charity,Expense,13,1900-01-02,-55.0
+2022-01-22,Fuel,74.5,,Fueling,Transport,Expense,13,1900-01-02,-74.5
+2022-01-22,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-02,-5.5
+2022-01-23,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-03,-5.5
+2022-01-24,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-04,-5.5
+2022-01-25,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-05,-5.5
+2022-01-26,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-06,-5.5
+2022-01-26,Green's,195.0,,Groceries,Living Expenses,Expense,13,1900-01-06,-195.0
+2022-01-27,Trainers,137.0,,Clothes,Discretionary,Expense,13,1900-01-07,-137.0
+2022-01-27,Hangingout/Ticket,187.0,,Entertainment,Discretionary,Expense,13,1900-01-07,-187.0
+2022-01-28,Fashionistas,157.0,,Clothes,Discretionary,Expense,13,1900-01-01,-157.0
+2022-01-28,Uba,35.0,,Taxi,Transport,Expense,13,1900-01-01,-35.0
+2022-01-29,Foodary,16.0,,Restaurant,Dining Out,Expense,13,1900-01-02,-16.0
+2022-01-30,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-03,-5.5
+2022-01-31,Drink,5.5,,Coffee,Dining Out,Expense,13,1900-01-04,-5.5
+2022-02-01,Data With Decision,,5200.0,Data with Decision,Salary,Income,14,1900-01-02,5200.0
+2022-02-01,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-02,-5.5
+2022-02-02,Estate Mangement,920.0,,Rent,Living Expenses,Expense,14,1900-01-03,-920.0
+2022-02-02,Financail upgrade,160.0,,Cash loan,Transport,Expense,14,1900-01-03,-160.0
+2022-02-02,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-03,-5.5
+2022-02-03,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-04,-5.5
+2022-02-04,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-05,-5.5
+2022-02-05,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-06,-5.5
+2022-02-05,Green's,185.0,,Groceries,Living Expenses,Expense,14,1900-01-06,-185.0
+2022-02-08,Power source,63.0,,Gas/Electrics,Living Expenses,Expense,14,1900-01-02,-63.0
+2022-02-08,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-02,-5.5
+2022-02-09,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-03,-5.5
+2022-02-10,Fuel,90.5,,Fueling,Transport,Expense,14,1900-01-04,-90.5
+2022-02-10,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-04,-5.5
+2022-02-11,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-05,-5.5
+2022-02-12,Green's,155.0,,Groceries,Living Expenses,Expense,14,1900-01-06,-155.0
+2022-02-12,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-06,-5.5
+2022-02-13,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-07,-5.5
+2022-02-13,Cinemas,52.8,,Entertainment,Discretionary,Expense,14,1900-01-07,-52.8
+2022-02-13,Fashionistas,111.0,,Clothes,Discretionary,Expense,14,1900-01-07,-111.0
+2022-02-13,Burger,65.0,,Restaurant,Dining Out,Expense,14,1900-01-07,-65.0
+2022-02-14,Uba,41.0,,Taxi,Transport,Expense,14,1900-01-01,-41.0
+2022-02-15,Onlne earning,,1100.0,YouTube,Passive,Income,14,1900-01-02,1100.0
+2022-02-15,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-02,-5.5
+2022-02-16,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-03,-5.5
+2022-02-16,Phone,42.0,,Phone,Living Expenses,Expense,14,1900-01-03,-42.0
+2022-02-17,Sallah give away,58.0,,Gifts,Discretionary,Expense,14,1900-01-04,-58.0
+2022-02-17,Online streaming,36.0,,Entertainment,Discretionary,Expense,14,1900-01-04,-36.0
+2022-02-17,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-04,-5.5
+2022-02-18,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-05,-5.5
+2022-02-19,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-06,-5.5
+2022-02-19,Green's,190.0,,Groceries,Living Expenses,Expense,14,1900-01-06,-190.0
+2022-02-20,Suya,50.0,,Restaurant,Dining Out,Expense,14,1900-01-07,-50.0
+2022-02-21,Oha soup/White soup,25.0,,Restaurant,Dining Out,Expense,14,1900-01-01,-25.0
+2022-02-22,Orphanage,55.0,,Donation,Charity,Expense,14,1900-01-02,-55.0
+2022-02-22,Fuel,75.5,,Fueling,Transport,Expense,14,1900-01-02,-75.5
+2022-02-22,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-02,-5.5
+2022-02-23,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-03,-5.5
+2022-02-24,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-04,-5.5
+2022-02-25,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-05,-5.5
+2022-02-26,Drink,5.5,,Coffee,Dining Out,Expense,14,1900-01-06,-5.5
+2022-02-26,Green's,200.0,,Groceries,Living Expenses,Expense,14,1900-01-06,-200.0
+2022-02-27,Trainers,138.0,,Clothes,Discretionary,Expense,14,1900-01-07,-138.0
+2022-02-27,Hangingout/Ticket,188.0,,Entertainment,Discretionary,Expense,14,1900-01-07,-188.0
+2022-02-28,Fashionistas,158.0,,Clothes,Discretionary,Expense,14,1900-01-01,-158.0
+2022-02-28,Uba,36.0,,Taxi,Transport,Expense,14,1900-01-01,-36.0
+2022-02-28,Foodary,16.0,,Restaurant,Dining Out,Expense,14,1900-01-01,-16.0
+2022-03-01,Data With Decision,,5200.0,Data with Decision,Salary,Income,15,1900-01-02,5200.0
+2022-03-01,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-02,-5.5
+2022-03-02,Estate Mangement,920.0,,Rent,Living Expenses,Expense,15,1900-01-03,-920.0
+2022-03-02,Financail upgrade,160.0,,Cash loan,Transport,Expense,15,1900-01-03,-160.0
+2022-03-02,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-03,-5.5
+2022-03-03,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-04,-5.5
+2022-03-04,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-05,-5.5
+2022-03-05,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-06,-5.5
+2022-03-05,Green's,190.0,,Groceries,Living Expenses,Expense,15,1900-01-06,-190.0
+2022-03-08,Power source,64.0,,Gas/Electrics,Living Expenses,Expense,15,1900-01-02,-64.0
+2022-03-08,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-02,-5.5
+2022-03-09,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-03,-5.5
+2022-03-10,Fuel,91.5,,Fueling,Transport,Expense,15,1900-01-04,-91.5
+2022-03-10,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-04,-5.5
+2022-03-11,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-05,-5.5
+2022-03-12,Green's,160.0,,Groceries,Living Expenses,Expense,15,1900-01-06,-160.0
+2022-03-12,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-06,-5.5
+2022-03-13,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-07,-5.5
+2022-03-13,Cinemas,53.8,,Entertainment,Discretionary,Expense,15,1900-01-07,-53.8
+2022-03-13,Fashionistas,112.0,,Clothes,Discretionary,Expense,15,1900-01-07,-112.0
+2022-03-13,Burger,66.0,,Restaurant,Dining Out,Expense,15,1900-01-07,-66.0
+2022-03-14,Uba,42.0,,Taxi,Transport,Expense,15,1900-01-01,-42.0
+2022-03-15,Onlne earning,,1200.0,YouTube,Passive,Income,15,1900-01-02,1200.0
+2022-03-15,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-02,-5.5
+2022-03-16,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-03,-5.5
+2022-03-16,Phone,42.0,,Phone,Living Expenses,Expense,15,1900-01-03,-42.0
+2022-03-17,Sallah give away,59.0,,Gifts,Discretionary,Expense,15,1900-01-04,-59.0
+2022-03-17,Online streaming,36.0,,Entertainment,Discretionary,Expense,15,1900-01-04,-36.0
+2022-03-17,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-04,-5.5
+2022-03-18,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-05,-5.5
+2022-03-19,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-06,-5.5
+2022-03-19,Green's,195.0,,Groceries,Living Expenses,Expense,15,1900-01-06,-195.0
+2022-03-20,Suya,51.0,,Restaurant,Dining Out,Expense,15,1900-01-07,-51.0
+2022-03-21,Oha soup/White soup,26.0,,Restaurant,Dining Out,Expense,15,1900-01-01,-26.0
+2022-03-22,Orphanage,55.0,,Donation,Charity,Expense,15,1900-01-02,-55.0
+2022-03-22,Fuel,76.5,,Fueling,Transport,Expense,15,1900-01-02,-76.5
+2022-03-22,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-02,-5.5
+2022-03-23,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-03,-5.5
+2022-03-24,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-04,-5.5
+2022-03-25,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-05,-5.5
+2022-03-26,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-06,-5.5
+2022-03-26,Green's,205.0,,Groceries,Living Expenses,Expense,15,1900-01-06,-205.0
+2022-03-27,Trainers,139.0,,Clothes,Discretionary,Expense,15,1900-01-07,-139.0
+2022-03-27,Hangingout/Ticket,189.0,,Entertainment,Discretionary,Expense,15,1900-01-07,-189.0
+2022-03-28,Fashionistas,159.0,,Clothes,Discretionary,Expense,15,1900-01-01,-159.0
+2022-03-28,Uba,37.0,,Taxi,Transport,Expense,15,1900-01-01,-37.0
+2022-03-29,Foodary,16.0,,Restaurant,Dining Out,Expense,15,1900-01-02,-16.0
+2022-03-30,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-03,-5.5
+2022-03-31,Drink,5.5,,Coffee,Dining Out,Expense,15,1900-01-04,-5.5
+2022-04-01,Data With Decision,,5200.0,Data with Decision,Salary,Income,16,1900-01-02,5200.0
+2022-04-01,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-02,-5.5
+2022-04-02,Estate Mangement,920.0,,Rent,Living Expenses,Expense,16,1900-01-03,-920.0
+2022-04-02,Financail upgrade,160.0,,Cash loan,Transport,Expense,16,1900-01-03,-160.0
+2022-04-02,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-03,-5.5
+2022-04-03,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-04,-5.5
+2022-04-04,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-05,-5.5
+2022-04-05,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-06,-5.5
+2022-04-05,Green's,195.0,,Groceries,Living Expenses,Expense,16,1900-01-06,-195.0
+2022-04-08,Power source,65.0,,Gas/Electrics,Living Expenses,Expense,16,1900-01-02,-65.0
+2022-04-08,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-02,-5.5
+2022-04-09,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-03,-5.5
+2022-04-10,Fuel,92.5,,Fueling,Transport,Expense,16,1900-01-04,-92.5
+2022-04-10,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-04,-5.5
+2022-04-11,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-05,-5.5
+2022-04-12,Green's,165.0,,Groceries,Living Expenses,Expense,16,1900-01-06,-165.0
+2022-04-12,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-06,-5.5
+2022-04-13,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-07,-5.5
+2022-04-13,Cinemas,54.8,,Entertainment,Discretionary,Expense,16,1900-01-07,-54.8
+2022-04-13,Fashionistas,113.0,,Clothes,Discretionary,Expense,16,1900-01-07,-113.0
+2022-04-13,Burger,67.0,,Restaurant,Dining Out,Expense,16,1900-01-07,-67.0
+2022-04-14,Uba,43.0,,Taxi,Transport,Expense,16,1900-01-01,-43.0
+2022-04-15,Onlne earning,,1300.0,YouTube,Passive,Income,16,1900-01-02,1300.0
+2022-04-15,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-02,-5.5
+2022-04-16,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-03,-5.5
+2022-04-16,Phone,42.0,,Phone,Living Expenses,Expense,16,1900-01-03,-42.0
+2022-04-17,Sallah give away,60.0,,Gifts,Discretionary,Expense,16,1900-01-04,-60.0
+2022-04-17,Online streaming,36.0,,Entertainment,Discretionary,Expense,16,1900-01-04,-36.0
+2022-04-17,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-04,-5.5
+2022-04-18,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-05,-5.5
+2022-04-19,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-06,-5.5
+2022-04-19,Green's,200.0,,Groceries,Living Expenses,Expense,16,1900-01-06,-200.0
+2022-04-20,Suya,52.0,,Restaurant,Dining Out,Expense,16,1900-01-07,-52.0
+2022-04-21,Oha soup/White soup,27.0,,Restaurant,Dining Out,Expense,16,1900-01-01,-27.0
+2022-04-22,Orphanage,55.0,,Donation,Charity,Expense,16,1900-01-02,-55.0
+2022-04-22,Fuel,77.5,,Fueling,Transport,Expense,16,1900-01-02,-77.5
+2022-04-22,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-02,-5.5
+2022-04-23,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-03,-5.5
+2022-04-24,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-04,-5.5
+2022-04-25,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-05,-5.5
+2022-04-26,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-06,-5.5
+2022-04-26,Green's,210.0,,Groceries,Living Expenses,Expense,16,1900-01-06,-210.0
+2022-04-27,Trainers,140.0,,Clothes,Discretionary,Expense,16,1900-01-07,-140.0
+2022-04-27,Hangingout/Ticket,190.0,,Entertainment,Discretionary,Expense,16,1900-01-07,-190.0
+2022-04-28,Fashionistas,160.0,,Clothes,Discretionary,Expense,16,1900-01-01,-160.0
+2022-04-28,Uba,38.0,,Taxi,Transport,Expense,16,1900-01-01,-38.0
+2022-04-29,Foodary,16.0,,Restaurant,Dining Out,Expense,16,1900-01-02,-16.0
+2022-04-30,Drink,5.5,,Coffee,Dining Out,Expense,16,1900-01-03,-5.5
+2022-05-01,Data With Decision,,5200.0,Data with Decision,Salary,Income,17,1900-01-02,5200.0
+2022-05-01,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-02,-5.5
+2022-05-02,Estate Mangement,920.0,,Rent,Living Expenses,Expense,17,1900-01-03,-920.0
+2022-05-02,Financail upgrade,160.0,,Cash loan,Transport,Expense,17,1900-01-03,-160.0
+2022-05-02,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-03,-5.5
+2022-05-03,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-04,-5.5
+2022-05-04,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-05,-5.5
+2022-05-05,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-06,-5.5
+2022-05-05,Green's,200.0,,Groceries,Living Expenses,Expense,17,1900-01-06,-200.0
+2022-05-08,Power source,66.0,,Gas/Electrics,Living Expenses,Expense,17,1900-01-02,-66.0
+2022-05-08,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-02,-5.5
+2022-05-09,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-03,-5.5
+2022-05-10,Fuel,93.5,,Fueling,Transport,Expense,17,1900-01-04,-93.5
+2022-05-10,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-04,-5.5
+2022-05-11,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-05,-5.5
+2022-05-12,Green's,170.0,,Groceries,Living Expenses,Expense,17,1900-01-06,-170.0
+2022-05-12,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-06,-5.5
+2022-05-13,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-07,-5.5
+2022-05-13,Cinemas,55.8,,Entertainment,Discretionary,Expense,17,1900-01-07,-55.8
+2022-05-13,Fashionistas,114.0,,Clothes,Discretionary,Expense,17,1900-01-07,-114.0
+2022-05-13,Burger,68.0,,Restaurant,Dining Out,Expense,17,1900-01-07,-68.0
+2022-05-14,Uba,44.0,,Taxi,Transport,Expense,17,1900-01-01,-44.0
+2022-05-15,Onlne earning,,1400.0,YouTube,Passive,Income,17,1900-01-02,1400.0
+2022-05-15,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-02,-5.5
+2022-05-16,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-03,-5.5
+2022-05-16,Phone,42.0,,Phone,Living Expenses,Expense,17,1900-01-03,-42.0
+2022-05-17,Sallah give away,61.0,,Gifts,Discretionary,Expense,17,1900-01-04,-61.0
+2022-05-17,Online streaming,36.0,,Entertainment,Discretionary,Expense,17,1900-01-04,-36.0
+2022-05-17,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-04,-5.5
+2022-05-18,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-05,-5.5
+2022-05-19,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-06,-5.5
+2022-05-19,Green's,205.0,,Groceries,Living Expenses,Expense,17,1900-01-06,-205.0
+2022-05-20,Suya,53.0,,Restaurant,Dining Out,Expense,17,1900-01-07,-53.0
+2022-05-21,Oha soup/White soup,28.0,,Restaurant,Dining Out,Expense,17,1900-01-01,-28.0
+2022-05-22,Orphanage,55.0,,Donation,Charity,Expense,17,1900-01-02,-55.0
+2022-05-22,Fuel,78.5,,Fueling,Transport,Expense,17,1900-01-02,-78.5
+2022-05-22,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-02,-5.5
+2022-05-23,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-03,-5.5
+2022-05-24,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-04,-5.5
+2022-05-25,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-05,-5.5
+2022-05-26,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-06,-5.5
+2022-05-26,Green's,215.0,,Groceries,Living Expenses,Expense,17,1900-01-06,-215.0
+2022-05-27,Trainers,141.0,,Clothes,Discretionary,Expense,17,1900-01-07,-141.0
+2022-05-27,Hangingout/Ticket,191.0,,Entertainment,Discretionary,Expense,17,1900-01-07,-191.0
+2022-05-28,Fashionistas,161.0,,Clothes,Discretionary,Expense,17,1900-01-01,-161.0
+2022-05-28,Uba,39.0,,Taxi,Transport,Expense,17,1900-01-01,-39.0
+2022-05-29,Foodary,16.0,,Restaurant,Dining Out,Expense,17,1900-01-02,-16.0
+2022-05-30,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-03,-5.5
+2022-05-31,Drink,5.5,,Coffee,Dining Out,Expense,17,1900-01-04,-5.5
+2022-06-01,Data With Decision,,5200.0,Data with Decision,Salary,Income,18,1900-01-02,5200.0
+2022-06-01,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-02,-5.5
+2022-06-02,Estate Mangement,920.0,,Rent,Living Expenses,Expense,18,1900-01-03,-920.0
+2022-06-02,Financail upgrade,160.0,,Cash loan,Transport,Expense,18,1900-01-03,-160.0
+2022-06-02,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-03,-5.5
+2022-06-03,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-04,-5.5
+2022-06-04,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-05,-5.5
+2022-06-05,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-06,-5.5
+2022-06-05,Green's,205.0,,Groceries,Living Expenses,Expense,18,1900-01-06,-205.0
+2022-06-08,Power source,67.0,,Gas/Electrics,Living Expenses,Expense,18,1900-01-02,-67.0
+2022-06-08,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-02,-5.5
+2022-06-09,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-03,-5.5
+2022-06-10,Fuel,94.5,,Fueling,Transport,Expense,18,1900-01-04,-94.5
+2022-06-10,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-04,-5.5
+2022-06-11,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-05,-5.5
+2022-06-12,Green's,175.0,,Groceries,Living Expenses,Expense,18,1900-01-06,-175.0
+2022-06-12,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-06,-5.5
+2022-06-13,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-07,-5.5
+2022-06-13,Cinemas,56.8,,Entertainment,Discretionary,Expense,18,1900-01-07,-56.8
+2022-06-13,Fashionistas,115.0,,Clothes,Discretionary,Expense,18,1900-01-07,-115.0
+2022-06-13,Burger,69.0,,Restaurant,Dining Out,Expense,18,1900-01-07,-69.0
+2022-06-14,Uba,45.0,,Taxi,Transport,Expense,18,1900-01-01,-45.0
+2022-06-15,Onlne earning,,1500.0,YouTube,Passive,Income,18,1900-01-02,1500.0
+2022-06-15,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-02,-5.5
+2022-06-16,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-03,-5.5
+2022-06-16,Phone,42.0,,Phone,Living Expenses,Expense,18,1900-01-03,-42.0
+2022-06-17,Sallah give away,62.0,,Gifts,Discretionary,Expense,18,1900-01-04,-62.0
+2022-06-17,Online streaming,36.0,,Entertainment,Discretionary,Expense,18,1900-01-04,-36.0
+2022-06-17,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-04,-5.5
+2022-06-18,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-05,-5.5
+2022-06-19,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-06,-5.5
+2022-06-19,Green's,210.0,,Groceries,Living Expenses,Expense,18,1900-01-06,-210.0
+2022-06-20,Suya,54.0,,Restaurant,Dining Out,Expense,18,1900-01-07,-54.0
+2022-06-21,Oha soup/White soup,29.0,,Restaurant,Dining Out,Expense,18,1900-01-01,-29.0
+2022-06-22,Orphanage,55.0,,Donation,Charity,Expense,18,1900-01-02,-55.0
+2022-06-22,Fuel,79.5,,Fueling,Transport,Expense,18,1900-01-02,-79.5
+2022-06-22,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-02,-5.5
+2022-06-23,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-03,-5.5
+2022-06-24,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-04,-5.5
+2022-06-25,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-05,-5.5
+2022-06-26,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-06,-5.5
+2022-06-26,Green's,220.0,,Groceries,Living Expenses,Expense,18,1900-01-06,-220.0
+2022-06-27,Trainers,142.0,,Clothes,Discretionary,Expense,18,1900-01-07,-142.0
+2022-06-27,Hangingout/Ticket,192.0,,Entertainment,Discretionary,Expense,18,1900-01-07,-192.0
+2022-06-28,Fashionistas,162.0,,Clothes,Discretionary,Expense,18,1900-01-01,-162.0
+2022-06-28,Uba,40.0,,Taxi,Transport,Expense,18,1900-01-01,-40.0
+2022-06-29,Foodary,16.0,,Restaurant,Dining Out,Expense,18,1900-01-02,-16.0
+2022-06-30,Drink,5.5,,Coffee,Dining Out,Expense,18,1900-01-03,-5.5
+2022-07-01,Data With Decision,,5200.0,Data with Decision,Salary,Income,19,1900-01-02,5200.0
+2022-07-01,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-02,-5.5
+2022-07-02,Estate Mangement,920.0,,Rent,Living Expenses,Expense,19,1900-01-03,-920.0
+2022-07-02,Financail upgrade,160.0,,Cash loan,Transport,Expense,19,1900-01-03,-160.0
+2022-07-02,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-03,-5.5
+2022-07-03,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-04,-5.5
+2022-07-04,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-05,-5.5
+2022-07-05,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-06,-5.5
+2022-07-05,Green's,210.0,,Groceries,Living Expenses,Expense,19,1900-01-06,-210.0
+2022-07-08,Power source,68.0,,Gas/Electrics,Living Expenses,Expense,19,1900-01-02,-68.0
+2022-07-08,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-02,-5.5
+2022-07-09,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-03,-5.5
+2022-07-10,Fuel,95.5,,Fueling,Transport,Expense,19,1900-01-04,-95.5
+2022-07-10,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-04,-5.5
+2022-07-11,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-05,-5.5
+2022-07-12,Green's,180.0,,Groceries,Living Expenses,Expense,19,1900-01-06,-180.0
+2022-07-12,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-06,-5.5
+2022-07-13,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-07,-5.5
+2022-07-13,Cinemas,57.8,,Entertainment,Discretionary,Expense,19,1900-01-07,-57.8
+2022-07-13,Fashionistas,116.0,,Clothes,Discretionary,Expense,19,1900-01-07,-116.0
+2022-07-13,Burger,70.0,,Restaurant,Dining Out,Expense,19,1900-01-07,-70.0
+2022-07-14,Uba,46.0,,Taxi,Transport,Expense,19,1900-01-01,-46.0
+2022-07-15,Onlne earning,,1600.0,YouTube,Passive,Income,19,1900-01-02,1600.0
+2022-07-15,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-02,-5.5
+2022-07-16,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-03,-5.5
+2022-07-16,Phone,42.0,,Phone,Living Expenses,Expense,19,1900-01-03,-42.0
+2022-07-17,Sallah give away,63.0,,Gifts,Discretionary,Expense,19,1900-01-04,-63.0
+2022-07-17,Online streaming,36.0,,Entertainment,Discretionary,Expense,19,1900-01-04,-36.0
+2022-07-17,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-04,-5.5
+2022-07-18,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-05,-5.5
+2022-07-19,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-06,-5.5
+2022-07-19,Green's,215.0,,Groceries,Living Expenses,Expense,19,1900-01-06,-215.0
+2022-07-20,Suya,55.0,,Restaurant,Dining Out,Expense,19,1900-01-07,-55.0
+2022-07-21,Oha soup/White soup,30.0,,Restaurant,Dining Out,Expense,19,1900-01-01,-30.0
+2022-07-22,Orphanage,55.0,,Donation,Charity,Expense,19,1900-01-02,-55.0
+2022-07-22,Fuel,80.5,,Fueling,Transport,Expense,19,1900-01-02,-80.5
+2022-07-22,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-02,-5.5
+2022-07-23,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-03,-5.5
+2022-07-24,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-04,-5.5
+2022-07-25,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-05,-5.5
+2022-07-26,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-06,-5.5
+2022-07-26,Green's,225.0,,Groceries,Living Expenses,Expense,19,1900-01-06,-225.0
+2022-07-27,Trainers,143.0,,Clothes,Discretionary,Expense,19,1900-01-07,-143.0
+2022-07-27,Hangingout/Ticket,193.0,,Entertainment,Discretionary,Expense,19,1900-01-07,-193.0
+2022-07-28,Fashionistas,163.0,,Clothes,Discretionary,Expense,19,1900-01-01,-163.0
+2022-07-28,Uba,41.0,,Taxi,Transport,Expense,19,1900-01-01,-41.0
+2022-07-29,Foodary,16.0,,Restaurant,Dining Out,Expense,19,1900-01-02,-16.0
+2022-07-30,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-03,-5.5
+2022-07-31,Drink,5.5,,Coffee,Dining Out,Expense,19,1900-01-04,-5.5
+2022-08-01,Data With Decision,,5200.0,Data with Decision,Salary,Income,20,1900-01-02,5200.0
+2022-08-01,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-02,-5.5
+2022-08-02,Estate Mangement,920.0,,Rent,Living Expenses,Expense,20,1900-01-03,-920.0
+2022-08-02,Financail upgrade,160.0,,Cash loan,Transport,Expense,20,1900-01-03,-160.0
+2022-08-02,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-03,-5.5
+2022-08-03,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-04,-5.5
+2022-08-04,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-05,-5.5
+2022-08-05,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-06,-5.5
+2022-08-05,Green's,215.0,,Groceries,Living Expenses,Expense,20,1900-01-06,-215.0
+2022-08-08,Power source,69.0,,Gas/Electrics,Living Expenses,Expense,20,1900-01-02,-69.0
+2022-08-08,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-02,-5.5
+2022-08-09,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-03,-5.5
+2022-08-10,Fuel,96.5,,Fueling,Transport,Expense,20,1900-01-04,-96.5
+2022-08-10,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-04,-5.5
+2022-08-11,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-05,-5.5
+2022-08-12,Green's,185.0,,Groceries,Living Expenses,Expense,20,1900-01-06,-185.0
+2022-08-12,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-06,-5.5
+2022-08-13,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-07,-5.5
+2022-08-13,Cinemas,58.8,,Entertainment,Discretionary,Expense,20,1900-01-07,-58.8
+2022-08-13,Fashionistas,117.0,,Clothes,Discretionary,Expense,20,1900-01-07,-117.0
+2022-08-13,Burger,71.0,,Restaurant,Dining Out,Expense,20,1900-01-07,-71.0
+2022-08-14,Uba,47.0,,Taxi,Transport,Expense,20,1900-01-01,-47.0
+2022-08-15,Onlne earning,,1700.0,YouTube,Passive,Income,20,1900-01-02,1700.0
+2022-08-15,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-02,-5.5
+2022-08-16,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-03,-5.5
+2022-08-16,Phone,42.0,,Phone,Living Expenses,Expense,20,1900-01-03,-42.0
+2022-08-17,Sallah give away,64.0,,Gifts,Discretionary,Expense,20,1900-01-04,-64.0
+2022-08-17,Online streaming,36.0,,Entertainment,Discretionary,Expense,20,1900-01-04,-36.0
+2022-08-17,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-04,-5.5
+2022-08-18,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-05,-5.5
+2022-08-19,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-06,-5.5
+2022-08-19,Green's,220.0,,Groceries,Living Expenses,Expense,20,1900-01-06,-220.0
+2022-08-20,Suya,56.0,,Restaurant,Dining Out,Expense,20,1900-01-07,-56.0
+2022-08-21,Oha soup/White soup,31.0,,Restaurant,Dining Out,Expense,20,1900-01-01,-31.0
+2022-08-22,Orphanage,55.0,,Donation,Charity,Expense,20,1900-01-02,-55.0
+2022-08-22,Fuel,81.5,,Fueling,Transport,Expense,20,1900-01-02,-81.5
+2022-08-22,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-02,-5.5
+2022-08-23,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-03,-5.5
+2022-08-24,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-04,-5.5
+2022-08-25,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-05,-5.5
+2022-08-26,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-06,-5.5
+2022-08-26,Green's,230.0,,Groceries,Living Expenses,Expense,20,1900-01-06,-230.0
+2022-08-27,Trainers,144.0,,Clothes,Discretionary,Expense,20,1900-01-07,-144.0
+2022-08-27,Hangingout/Ticket,194.0,,Entertainment,Discretionary,Expense,20,1900-01-07,-194.0
+2022-08-28,Fashionistas,164.0,,Clothes,Discretionary,Expense,20,1900-01-01,-164.0
+2022-08-28,Uba,42.0,,Taxi,Transport,Expense,20,1900-01-01,-42.0
+2022-08-29,Foodary,16.0,,Restaurant,Dining Out,Expense,20,1900-01-02,-16.0
+2022-08-30,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-03,-5.5
+2022-08-31,Drink,5.5,,Coffee,Dining Out,Expense,20,1900-01-04,-5.5
