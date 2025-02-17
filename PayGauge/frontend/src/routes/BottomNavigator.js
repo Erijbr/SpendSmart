@@ -10,6 +10,7 @@ import AddTransactionView from "../views/main/AddTransactionView";
 import { createStackNavigator } from "@react-navigation/stack";
 import UpdateTransactionView from "../views/main/UpdateTransactionView";
 import TransactionsView from "../views/nav/TransactionsView";
+import SavingView from "../views/nav/SavingView";
 
 const Stack = createStackNavigator()
 const BottomTabs = createMaterialBottomTabNavigator()
@@ -103,6 +104,14 @@ function BottomNavigator() {
                 }}
             />
             <BottomTabs.Screen
+                name="SavingView"
+                component={SavingView}
+                options={{
+                    tabBarIcon: ({ color }) => (
+                        <MaterialCommunityIcons name="piggy-bank" color={color} size={26} />                    )
+                }}
+            />
+            <BottomTabs.Screen
                 name="ProfileView"
                 component={ProfileView}
                 options={{
@@ -111,6 +120,7 @@ function BottomNavigator() {
                     )
                 }}
             />
+             
         </BottomTabs.Navigator>
     )
 }
